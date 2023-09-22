@@ -14,7 +14,7 @@ This Demo showcases my DYNAMIC: Blender Generators- Rocks
 ![The Island](https://github.com/MoveRotateResize/DYNAMIC--Blender-Generator--Rocks/blob/main/Screenshot%202023-09-21%20165546.png)
 # Rocks in Engine
 ![The Island](https://github.com/MoveRotateResize/DYNAMIC--Blender-Generator--Rocks/blob/main/diff_05_b.jpg)
-# Rocks in Engine- 
+# Rocks in Engine (with my DYNAMIC: Shaders-Rain/Wetness)
 ![The Island](https://github.com/MoveRotateResize/DYNAMIC--Blender-Generator--Rocks/blob/main/diff_05_a.jpg)
   
 # Links
