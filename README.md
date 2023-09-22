@@ -16,6 +16,10 @@ This Demo showcases my DYNAMIC: Blender Generators- Rocks
 ![The Island](https://github.com/MoveRotateResize/DYNAMIC--Blender-Generator--Rocks/blob/main/diff_05_b.jpg)
 # Rocks in Engine (with my DYNAMIC: Shaders-Rain/Wetness)
 ![The Island](https://github.com/MoveRotateResize/DYNAMIC--Blender-Generator--Rocks/blob/main/diff_05_a.jpg)
+# Rocks in Engine
+![The Island](https://github.com/MoveRotateResize/DYNAMIC-Blender-Generator-Rocks/blob/main/diff_08_b.jpg)
+# Rocks in Engine (with my DYNAMIC: Shaders-Rain/Wetness)
+![The Island](https://github.com/MoveRotateResize/DYNAMIC-Blender-Generator-Rocks/blob/main/diff_08_a.jpg)
   
 # Links
 [Unity Store: DYNMAIC: Shaders- Rain/Wetness](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html)  
