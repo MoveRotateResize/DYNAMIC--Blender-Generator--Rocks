@@ -1,5 +1,5 @@
 # MoveRotateResize Presets...
-# DYNAMIC: Blender Generators- Rocks
+# DYNAMIC- Blender Generators- Rocks
 
 # Features
 This Demo showcases my DYNAMIC: Blender Generators- Rocks
